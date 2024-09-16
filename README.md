@@ -49,3 +49,4 @@ Diretrizes:
 
 ## 💡 Informações
 - A performance dos testes está ligeiramente afetada por necessidade de capturas de telas a cada procedimento, o que se faz necessário esperar o carregamento completo das telas.
+- A pipeline fica quebrando os testes devido não termos um usuario de testes definido nas variavéis de ambiente.
