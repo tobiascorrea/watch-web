@@ -4,6 +4,7 @@
   "description": "Automação Web Plataforma Watch Brasil",
   "main": "index.js",
   "scripts": {
+    "test": "cypress run",
     "test:electron": "cypress run --headless",
     "test:chrome": "cypress run --headless --browser chrome",
     "test:edge": "cypress run --headless --browser edge"
