@@ -7,19 +7,7 @@
   <h3 align="center">
     Projeto para automação de testes na plataforma Watch Brasil.
   </h3>
-  <p align="center">
-     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leandroskt/Projeto-Automacao-Watch-br?color=1db954">
-      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandroskt/Projeto-Automacao-Watch-br?color=1db954">
-      <img alt="Stars" src="https://img.shields.io/github/stars/leandroskt/Projeto-Automacao-Watch-br?color=1db954">
-      <img alt="Repository Size" src="https://img.shields.io/github/repo-size/leandroskt/Projeto-Automacao-Watch-br?color=1db954">
-  </p>
 </h1>
-
-<p align="center">
-  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
 ## :page_with_curl: Sobre
 
@@ -60,6 +48,4 @@ Diretrizes:
 ```
 
 ## 💡 Informações
-
-- O usuário utilizado nos testes deve ter acessado a plataforma pelo menos uma vez antes de ser utilizado nos testes pois não está mapeado a configuração de primeiro acesso.
 - A performance dos testes está ligeiramente afetada por necessidade de capturas de telas a cada procedimento, o que se faz necessário esperar o carregamento completo das telas.
