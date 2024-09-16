@@ -1,4 +1,4 @@
-name: Watch Brasil
+name: Watch CI
 on:
   push:
     branches:
