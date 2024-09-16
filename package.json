@@ -1,0 +1,19 @@
+{
+  "name": "automacao-web-watch",
+  "version": "1.0.0",
+  "description": "Automação Web Plataforma Watch Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test:electron": "cypress run --headless",
+    "test:chrome": "cypress run --headless --browser chrome",
+    "test:edge": "cypress run --headless --browser edge"
+  },
+  "author": "Tobias Correa Camilo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
